@@ -2,7 +2,7 @@
 title: "The hidden costs of serverless"
 description: "The serverless architecture approach offers remarkable scalability and reduced operational overhead, but it may not always be the most cost-effective option. 
 Understanding the hidden pricing triggers can help to make informed decisions."
-date: 2025-02-22 22:00:00 +/-TTTT
+date: 2025-02-22 08:00:00 +/-TTTT
 categories: [architectures, serverless]
 tags: [system-design, cloud-strategy, serverless]     # TAG names should always be lowercase
 image:
