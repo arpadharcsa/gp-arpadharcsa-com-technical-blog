@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" contentStyleType="text/css"
+     height="311px" preserveAspectRatio="none" style="width:963px;height:311px;background:#FFFFFF;" version="1.1"
+     viewBox="0 0 963 311" width="963px" zoomAndPan="magnify">
+  <defs/>
+  <g><!--cluster Controller Component-->
+    <g id="cluster_Controller Component">
+      <path
+        d="M397.63,6 L558.9806,6 A3.75,3.75 0 0 1 561.4806,8.5 L568.4806,28.4883 L953.63,28.4883 A2.5,2.5 0 0 1 956.13,30.9883 L956.13,293.45 A2.5,2.5 0 0 1 953.63,295.95 L397.63,295.95 A2.5,2.5 0 0 1 395.13,293.45 L395.13,8.5 A2.5,2.5 0 0 1 397.63,6 "
+        fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+      <line style="stroke:#000000;stroke-width:1.5;" x1="395.13" x2="568.4806" y1="28.4883" y2="28.4883"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing"
+            textLength="160.3506" x="399.13" y="21.5352">Controller Component
+      </text>
+    </g><!--class UserController-->
+    <g id="elem_UserController">
+      <rect codeLine="2" fill="#F1F1F1" height="80.9766" id="UserController" rx="2.5" ry="2.5"
+            style="stroke:#181818;stroke-width:0.5;" width="213.0791" x="411.59" y="41"/>
+      <ellipse cx="464.6164" cy="57" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+      <path
+        d="M467.5895,62.6431 Q467.0085,62.9419 466.3693,63.0913 Q465.7301,63.2407 465.0246,63.2407 Q462.5177,63.2407 461.1979,61.5889 Q459.8781,59.937 459.8781,56.8159 Q459.8781,53.6865 461.1979,52.0347 Q462.5177,50.3828 465.0246,50.3828 Q465.7301,50.3828 466.3776,50.5322 Q467.0251,50.6816 467.5895,50.9805 L467.5895,53.7031 Q466.9587,53.1221 466.3651,52.8523 Q465.7716,52.5825 465.1408,52.5825 Q463.7961,52.5825 463.1112,53.6492 Q462.4264,54.7158 462.4264,56.8159 Q462.4264,58.9077 463.1112,59.9744 Q463.7961,61.041 465.1408,61.041 Q465.7716,61.041 466.3651,60.7712 Q466.9587,60.5015 467.5895,59.9204 Z "
+        fill="#000000"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98.5264"
+            x="485.1164" y="62.291">UserController
+      </text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="412.59" x2="623.6691" y1="73" y2="73"/>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="412.59" x2="623.6691" y1="81" y2="81"/>
+      <ellipse cx="422.59" cy="94.7441" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="162.1484"
+            x="431.59" y="98.5352">getUser(id: String): User
+      </text>
+      <ellipse cx="422.59" cy="111.2324" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187.0791"
+            x="431.59" y="115.0234">createUser(user: User): void
+      </text>
+    </g><!--class ProductController-->
+    <g id="elem_ProductController">
+      <rect codeLine="7" fill="#F1F1F1" height="80.9766" id="ProductController" rx="2.5" ry="2.5"
+            style="stroke:#181818;stroke-width:0.5;" width="279.9893" x="660.13" y="41"/>
+      <ellipse cx="735.8072" cy="57" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+      <path
+        d="M738.7804,62.6431 Q738.1993,62.9419 737.5602,63.0913 Q736.921,63.2407 736.2154,63.2407 Q733.7086,63.2407 732.3888,61.5889 Q731.069,59.937 731.069,56.8159 Q731.069,53.6865 732.3888,52.0347 Q733.7086,50.3828 736.2154,50.3828 Q736.921,50.3828 737.5685,50.5322 Q738.2159,50.6816 738.7804,50.9805 L738.7804,53.7031 Q738.1495,53.1221 737.556,52.8523 Q736.9625,52.5825 736.3317,52.5825 Q734.9869,52.5825 734.3021,53.6492 Q733.6173,54.7158 733.6173,56.8159 Q733.6173,58.9077 734.3021,59.9744 Q734.9869,61.041 736.3317,61.041 Q736.9625,61.041 737.556,60.7712 Q738.1495,60.5015 738.7804,59.9204 Z "
+        fill="#000000"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120.1348"
+            x="756.3072" y="62.291">ProductController
+      </text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="661.13" x2="939.1193" y1="73" y2="73"/>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="661.13" x2="939.1193" y1="81" y2="81"/>
+      <ellipse cx="671.13" cy="94.7441" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="205.3652"
+            x="680.13" y="98.5352">getProduct(id: String): Product
+      </text>
+      <ellipse cx="671.13" cy="111.2324" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="253.9893"
+            x="680.13" y="115.0234">createProduct(product: Product): void
+      </text>
+    </g><!--class Service-->
+    <g id="elem_Service">
+      <rect fill="#F1F1F1" height="48" id="Service" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;"
+            width="79.332" x="570.46" y="231.95"/>
+      <ellipse cx="585.46" cy="247.95" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+      <path
+        d="M588.4331,253.5931 Q587.8521,253.8919 587.2129,254.0413 Q586.5738,254.1907 585.8682,254.1907 Q583.3614,254.1907 582.0415,252.5389 Q580.7217,250.887 580.7217,247.7659 Q580.7217,244.6365 582.0415,242.9847 Q583.3614,241.3328 585.8682,241.3328 Q586.5738,241.3328 587.2212,241.4822 Q587.8687,241.6316 588.4331,241.9305 L588.4331,244.6531 Q587.8023,244.0721 587.2088,243.8023 Q586.6153,243.5325 585.9844,243.5325 Q584.6397,243.5325 583.9549,244.5992 Q583.2701,245.6658 583.2701,247.7659 Q583.2701,249.8577 583.9549,250.9244 Q584.6397,251.991 585.9844,251.991 Q586.6153,251.991 587.2088,251.7212 Q587.8023,251.4515 588.4331,250.8704 Z "
+        fill="#000000"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47.332" x="599.46"
+            y="253.241">Service
+      </text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="571.46" x2="648.792" y1="263.95" y2="263.95"/>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="571.46" x2="648.792" y1="271.95" y2="271.95"/>
+    </g><!--class Service-->
+    <g id="elem_Service">
+      <rect codeLine="16" fill="#F1F1F1" height="64.4883" id="Service" rx="2.5" ry="2.5"
+            style="stroke:#181818;stroke-width:0.5;" width="222.2529" x="7" y="49.24"/>
+      <ellipse cx="90.2104" cy="65.24" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+      <path
+        d="M93.1836,70.8831 Q92.6025,71.1819 91.9634,71.3313 Q91.3242,71.4807 90.6187,71.4807 Q88.1118,71.4807 86.792,69.8289 Q85.4722,68.177 85.4722,65.0559 Q85.4722,61.9265 86.792,60.2747 Q88.1118,58.6228 90.6187,58.6228 Q91.3242,58.6228 91.9717,58.7722 Q92.6191,58.9216 93.1836,59.2205 L93.1836,61.9431 Q92.5527,61.3621 91.9592,61.0923 Q91.3657,60.8225 90.7349,60.8225 Q89.3901,60.8225 88.7053,61.8892 Q88.0205,62.9558 88.0205,65.0559 Q88.0205,67.1477 88.7053,68.2144 Q89.3901,69.281 90.7349,69.281 Q91.3657,69.281 91.9592,69.0112 Q92.5527,68.7415 93.1836,68.1604 Z "
+        fill="#000000"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47.332"
+            x="110.7104" y="70.531">Service
+      </text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="228.2529" y1="81.24" y2="81.24"/>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="228.2529" y1="89.24" y2="89.24"/>
+      <ellipse cx="18" cy="102.9841" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="196.2529" x="27"
+            y="106.7752">performBusinessLogic(): void
+      </text>
+    </g><!--class User-->
+    <g id="elem_User">
+      <rect codeLine="20" fill="#F1F1F1" height="97.4648" id="User" rx="2.5" ry="2.5"
+            style="stroke:#181818;stroke-width:0.5;" width="112.1191" x="264.07" y="32.75"/>
+      <ellipse cx="301.4593" cy="48.75" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+      <path
+        d="M304.4324,54.3931 Q303.8513,54.6919 303.2122,54.8413 Q302.573,54.9907 301.8675,54.9907 Q299.3606,54.9907 298.0408,53.3389 Q296.721,51.687 296.721,48.5659 Q296.721,45.4365 298.0408,43.7847 Q299.3606,42.1328 301.8675,42.1328 Q302.573,42.1328 303.2205,42.2822 Q303.8679,42.4316 304.4324,42.7305 L304.4324,45.4531 Q303.8015,44.8721 303.208,44.6023 Q302.6145,44.3325 301.9837,44.3325 Q300.6389,44.3325 299.9541,45.3992 Q299.2693,46.4658 299.2693,48.5659 Q299.2693,50.6577 299.9541,51.7244 Q300.6389,52.791 301.9837,52.791 Q302.6145,52.791 303.208,52.5212 Q303.8015,52.2515 304.4324,51.6704 Z "
+        fill="#000000"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30.3652"
+            x="320.4346" y="54.041">User
+      </text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="265.07" x2="375.1891" y1="64.75" y2="64.75"/>
+      <ellipse cx="275.07" cy="78.4941" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61.6875"
+            x="284.07" y="82.2852">id: String
+      </text>
+      <ellipse cx="275.07" cy="94.9824" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86.1191"
+            x="284.07" y="98.7734">name: String
+      </text>
+      <ellipse cx="275.07" cy="111.4707" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85.5244"
+            x="284.07" y="115.2617">email: String
+      </text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="265.07" x2="375.1891" y1="122.2148" y2="122.2148"/>
+    </g><!--class Product-->
+    <g id="elem_Product">
+      <rect codeLine="26" fill="#F1F1F1" height="97.4648" id="Product" rx="2.5" ry="2.5"
+            style="stroke:#181818;stroke-width:0.5;" width="115.1748" x="60.54" y="207.22"/>
+      <ellipse cx="89.5805" cy="223.22" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+      <path
+        d="M92.5537,228.8631 Q91.9726,229.1619 91.3335,229.3113 Q90.6943,229.4607 89.9887,229.4607 Q87.4819,229.4607 86.1621,227.8089 Q84.8422,226.157 84.8422,223.0359 Q84.8422,219.9065 86.1621,218.2547 Q87.4819,216.6028 89.9887,216.6028 Q90.6943,216.6028 91.3418,216.7522 Q91.9892,216.9016 92.5537,217.2005 L92.5537,219.9231 Q91.9228,219.3421 91.3293,219.0723 Q90.7358,218.8025 90.1049,218.8025 Q88.7602,218.8025 88.0754,219.8692 Q87.3906,220.9358 87.3906,223.0359 Q87.3906,225.1277 88.0754,226.1944 Q88.7602,227.261 90.1049,227.261 Q90.7358,227.261 91.3293,226.9912 Q91.9228,226.7215 92.5537,226.1404 Z "
+        fill="#000000"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51.9736"
+            x="106.7006" y="228.511">Product
+      </text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="61.54" x2="174.7148" y1="239.22" y2="239.22"/>
+      <ellipse cx="71.54" cy="252.9641" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61.6875" x="80.54"
+            y="256.7552">id: String
+      </text>
+      <ellipse cx="71.54" cy="269.4524" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86.1191" x="80.54"
+            y="273.2434">name: String
+      </text>
+      <ellipse cx="71.54" cy="285.9407" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89.1748" x="80.54"
+            y="289.7317">price: double
+      </text>
+      <line style="stroke:#181818;stroke-width:0.5;" x1="61.54" x2="174.7148" y1="296.6848" y2="296.6848"/>
+    </g><!--link UserController to Service-->
+    <g id="link_UserController_Service">
+      <path codeLine="12" d="M539.23,122.05 C557.27,155.86 579.7853,198.0765 594.7853,226.1865 " fill="none"
+            id="UserController-to-Service" style="stroke:#181818;stroke-width:1.0;"/>
+      <polygon fill="#181818" points="597.61,231.48,596.9019,221.6566,595.2561,227.0688,589.844,225.4229,597.61,231.48"
+               style="stroke:#181818;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="47.9946"
+            x="567.88" y="173.7884">Invokes
+      </text>
+    </g><!--link ProductController to Service-->
+    <g id="link_ProductController_Service">
+      <path codeLine="13" d="M756.54,122.05 C719.29,155.86 671.3928,199.3375 640.4228,227.4475 " fill="none"
+            id="ProductController-to-Service" style="stroke:#181818;stroke-width:1.0;"/>
+      <polygon fill="#181818" points="635.98,231.48,645.3326,228.3931,639.6823,228.1196,639.9559,222.4693,635.98,231.48"
+               style="stroke:#181818;stroke-width:1.0;"/>
+      <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="47.9946"
+            x="711.82" y="173.7884">Invokes
+      </text>
+    </g><!--SRC=[ZOz13e8m44Ntd6B2IcEu00iNkZ9nOK8yG2qZQIYTPbhO6EzkeO2AcjX5cyv_C_-F5R8M5KAw9-EPj4Q6FJMM31gVmYs1SAGMpi7P8RzGKUhFfaBVYojLvb1uLgPQvmF-H2IZy3XGRRYY7AYEL3bGz-J5wiHKjjB_T1lrTyEnkFISM1lVcVjYljWmoxPG87TA8kIG7an7DRfqG3yJ_gB3xBZK9CPLDXRvIjpiMgSCEdUaIidL56fkwYDD7Szjuz-81jyhs0Ybvz8yP0px_npB8MWE9RKNZSdz0G00]-->
+  </g>
+</svg>
