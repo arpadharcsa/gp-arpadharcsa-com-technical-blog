@@ -6,7 +6,7 @@ As systems grow and change, maintaining an accurate representation of the archit
 In this post I would like to introduce you some powerful tools and approaches for achieving clarity. 
 By integrating decision records and C4 Modeling can enhance documentation strategy and make sure that the stakeholders have the common understanding of the system design.
 "
-date: 2025-04-29 23:00:00 +/-TTTT
+date: 2025-04-29 21:00:00 +/-TTTT
 categories: [architectures, documentation]
 tags: [system-design, documentation, teamwork]     # TAG names should always be lowercase
 image:
